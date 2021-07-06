@@ -1,0 +1,124 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+    margin-bottom: 100px;
+
+
+}
+
+.half-width {
+    width: 60%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 30px;
+    border-radius: 5px;
+}
+
+.About-me {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    padding-left: 0%;
+}
+
+.about-img {
+    height: 50%;
+    width: 30%;
+
+}
+
+.recipies {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-bottom: 5%;
+}
+
+.flex-recipies {
+    display: flex;
+    padding-bottom: 10%;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.recipie {
+    padding: 2%;
+    width: 25%;
+    border-radius: 20px;
+    margin-left: 4%;
+    box-shadow: 5px 5px 5px 5px gray;
+
+    height: 70%;
+
+}
+
+.recipie img {
+    width: 100%;
+    height: 50%;
+    border-radius: 30px;
+
+}
+
+.flex-followers {
+    display: flex;
+    padding-bottom: 0%;
+    padding-left: 4%;
+    padding-right: 4%;
+    box-shadow: 2px 2px 2px 2px gray;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.follow {
+    width: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.follow h2 {
+    font-size: 900;
+}
+
+.name-color {
+    color: orange;
+
+}
+
+footer h2 {
+    color: white;
+}
+
+footer p {
+    color: white;
+}
+
+footer {
+
+    text-align: center;
+    background-color: #0B0D17;
+    padding-top: 1%;
+    padding-bottom: 5%;
+
+}
